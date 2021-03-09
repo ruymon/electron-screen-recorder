@@ -2,7 +2,7 @@
   "name": "electron-screen-recorder",
   "productName": "electron-screen-recorder",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A Electron based Screen Recorder. Built with Tailwind-CSS.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "ruymon",
+    "name": "Ruy Monteiro",
     "email": "ruystfrancis@gmail.com"
   },
   "license": "MIT",
@@ -24,7 +24,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "electron_screen_recorder"
+            "name": "Electron Screen Recorder"
           }
         },
         {
